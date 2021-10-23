@@ -1,1 +1,10 @@
-contrasenas.txt
+#para ignorar archivos
+contrasenas.txt 
+
+#para ignorar todos los archivos .csv
+*.csv
+
+#para ignorar toda la carpeta secretos
+secretos/ 
+
+folder/tu-no.txt
